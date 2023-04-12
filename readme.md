@@ -1,0 +1,1 @@
+The Simple Static Template For Website Suspended Message
